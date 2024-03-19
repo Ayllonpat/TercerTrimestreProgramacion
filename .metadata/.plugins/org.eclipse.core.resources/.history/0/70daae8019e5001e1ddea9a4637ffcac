@@ -1,9 +1,0 @@
-package ejercicio2;
-
-public class MenorTemperatura {
-
-	public void menor(int temperatura) throws ExcepcionMenorTemperatura{
-		
-	}
-	
-}

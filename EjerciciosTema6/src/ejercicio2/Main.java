@@ -16,17 +16,15 @@ public class Main {
 		
 		String aux;
 		int temperatura;
-		
-		aux=sc.nextLine();
-		temperatura=Integer.parseInt(aux);
-
-			Menor m=new Menor();
+		Menor m=new Menor();
 		
 		try {
-			System.out.println(temperatura);
+		aux=sc.nextLine();
+		temperatura=Integer.parseInt(aux);
+		System.out.println(m.poderMenor(temperatura));
 
-		}catch(ExcepcionMenorTemperatura){
-			
+		}catch(ExcepcionMenorTemperatura a){
+			System.out.println(a.getMessage());
 		}
 		
 

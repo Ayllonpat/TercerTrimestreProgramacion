@@ -1,9 +1,0 @@
-package ejercicio2;
-
-public class MenorTemperatura {
-
-	public void mostrarTemperadura(int temperatura) throws ExcepcionMenorTemperatura{
-		System.out.println(temperatura);
-	}
-	
-}
