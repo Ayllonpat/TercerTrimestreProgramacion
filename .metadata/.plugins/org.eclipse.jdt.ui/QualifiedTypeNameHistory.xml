@@ -7,9 +7,10 @@
     <fullyQualifiedTypeName name="ejercicio1Parte2.Calculadora"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ejercicio2.MenorTemperatura"/>
     <fullyQualifiedTypeName name="ejercicio2.Menor"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="ejercicio2.ExcepcionMenorTemperatura"/>
+    <fullyQualifiedTypeName name="ejercicio4.ExcepcionSumaMayor10"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
