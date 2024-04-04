@@ -16,6 +16,46 @@ public class Main {
 		double totalTicket;
 		int nOperaciones = 0;
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		List<Double> operaciones=new ArrayList<Double>(nOperaciones);
 		
 		Caja c=new Caja("A1111", 100.10);

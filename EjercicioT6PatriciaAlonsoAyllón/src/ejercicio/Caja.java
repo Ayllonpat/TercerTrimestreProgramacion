@@ -52,7 +52,7 @@ public class Caja {
 	public void devolverExcepcionDineroRecaudado(double totalTicket, int nOperaciones, List<Double> operaciones) throws ExcepcionDineroRecaudado {
 		double totalTicketFinal;
 		totalTicketFinal=sumarTickets(totalTicket, nOperaciones, operaciones);
-		if(totalTicketFinal!=totalRecaudado) {
+		if(totalTicketFinal==totalRecaudado) {
 			throw new ExcepcionDineroRecaudado("El dinero contado no coincide");
 		}
 	}
